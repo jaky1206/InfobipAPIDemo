@@ -1,0 +1,61 @@
+{
+	"results": [{
+			"bulkId": "3f6237e5-b792-4c73-9562-234234234",
+			"messageId": "asdasda-attttsd-asdass",
+			"to": "8801111111111",
+			"sentAt": "2015-06-04T13:01:52.933+0000",
+			"doneAt": "2015-06-04T13:02:00.134+0000",
+			"smsCount": 1,
+			"mccMnc": "21901",
+			"price": {
+				"pricePerMessage": 0.0001000000,
+				"currency": "EUR"
+			},
+			"status": {
+				"groupId": 3,
+				"groupName": "DELIVERED",
+				"id": 5,
+				"name": "DELIVERED_TO_HANDSET",
+				"description": "Message delivered to handset"
+			},
+			"error": {
+				"groupId": 0,
+				"groupName": "OK",
+				"id": 0,
+				"name": "NO_ERROR",
+				"description": "No Error",
+				"permanent": false
+			},
+			"callbackData": "There's no place like home."
+		},
+		{
+			"bulkId": "3f6237e5-b792-4c73-9562-8d06bae1c09a",
+			"messageId": "asdyyy-assasd-asdass",
+			"to": "8801111111111",
+			"sentAt": "2015-06-04T13:01:52.937+0000",
+			"doneAt": "2015-06-04T13:02:01.204+0000",
+			"smsCount": 1,
+			"mccMnc": "21901",
+			"price": {
+				"pricePerMessage": 0.0001000000,
+				"currency": "EUR"
+			},
+			"status": {
+				"groupId": 3,
+				"groupName": "DELIVERED",
+				"id": 5,
+				"name": "DELIVERED_TO_HANDSET",
+				"description": "Message delivered to handset"
+			},
+			"error": {
+				"groupId": 0,
+				"groupName": "OK",
+				"id": 0,
+				"name": "NO_ERROR",
+				"description": "No Error",
+				"permanent": false
+			},
+			"callbackData": "There's no place like home."
+		}
+	]
+}
